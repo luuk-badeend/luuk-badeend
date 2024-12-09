@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luuk-badeend
+- 👋 Hi, I’m @luuk
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Django
 
